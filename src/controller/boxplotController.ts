@@ -1,4 +1,4 @@
-// src/controller/boxplotController.ts
+
 import { numbers } from "../db/data";
 import { BoxPlotResult } from "../types/boxplot";
 

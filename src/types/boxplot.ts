@@ -1,4 +1,4 @@
-// src/types/boxplot.ts
+
 export interface BoxPlotResult {
     min: number;
     max: number;
